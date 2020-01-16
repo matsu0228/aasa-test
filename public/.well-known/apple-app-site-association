@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "M29R4N83HB.com.ntt.spolive.ios",
+        "paths": ["/share/*"]
+      }
+    ]
+  }
+}
